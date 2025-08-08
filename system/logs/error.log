@@ -1,0 +1,2 @@
+[Fri, 08 Aug 2025 22:04:11 +0200] [OTS_MonstersList.php] Fatal error: Cannot load monsters.xml. File does not exist. (/home/ted/crystalserver/data/monster/monsters.xml).
+[Fri, 08 Aug 2025 22:04:11 +0200] [OTS_SpellsList.php] Fatal error: Cannot load spells.xml. File does not exist. (/home/ted/crystalserver/data/spells/spells.xml).
